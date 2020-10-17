@@ -1,0 +1,8 @@
+
+alma
+banan
+cp task.txt > task2.txt
+cseresznye 
+dinnye
+korte
+nano task.txt

@@ -1,0 +1,10 @@
+cp task.txt > task2.txt
+nano task.txt
+alma
+korte
+banan
+alma
+cseresznye 
+dinnye
+korte
+
